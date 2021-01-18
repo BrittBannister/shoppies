@@ -181,7 +181,7 @@ window.env = {
   "npm_package_description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "npm_package_eslintConfig_extends_0": "react-app",
   "npm_package_eslintConfig_extends_1": "react-app/jest",
-  "npm_package_gitHead": "4c8c3af3afde21d8b709ebc9533b7f2fb7b4305b",
+  "npm_package_gitHead": "762a15b090bbd8dae5a3b8ed9eacde3685ee2eec",
   "npm_package_name": "shoppies",
   "npm_package_private": "true",
   "npm_package_readmeFilename": "README.md",
